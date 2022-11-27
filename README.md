@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I'm currently a Junior at Izmir University of Economy!**
+- 🔭 I'm currently a Junior at Izmir University of Economy!
 
 - 🌱 I’m currently learning **Python and Flutter!**
 
