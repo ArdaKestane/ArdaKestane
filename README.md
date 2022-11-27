@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakestane&label=Profile%20views&color=0e75b6&style=flat" alt="ardakestane" /> </p>
 
 
-<br>
-
 - 🔭 I'm currently a Junior at Izmir University of Economy!
 
 - 🌱 I’m currently learning **Python and Flutter!**
