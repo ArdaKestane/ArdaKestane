@@ -22,10 +22,6 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ardakestane&show_icons=true&locale=en&layout=compact" alt="ardakestane" /></p>
-
-<br><br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ardakestane&show_icons=true&locale=en" alt="ardakestane" /></p>
 
 <br>
